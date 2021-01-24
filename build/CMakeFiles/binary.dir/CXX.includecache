@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/bot.h
+player.h
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/player.h
+vector
+-
+
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/human.h
+player.h
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/player.h
+
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/main.cpp
+cstdio
+-
+iostream
+-
+string
+-
+human.h
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/human.h
+bot.h
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/bot.h
+
+/home/sajeelh/Documents/BSCS-8CCourses/AP/Project/CodeBase/Battleship/src/player.h
+map
+-
+vector
+-
+iostream
+-
+algorithm
+-
+string
+-
+
